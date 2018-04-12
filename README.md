@@ -21,7 +21,7 @@ This is a service that blocks windows updates.
 * Taskbar UI to allow easy enable/disable of windows updates
 * Better logging
 
-## Problem (*beware, there be rants ahead*)
+## What it solves (*beware, there be rants ahead*)
 The windows update mechanisms have become too opinionated. So much so, while long running processes are running on the computer, and taking 98% of the available processing power, windows will deem it's updates more important than the task we've taken the time to start on the computer.
 
 This results in failed long running tasks, closing of applications that were intentionally left open, loss of application context, and generally an increase of personal time lost to get back to the desired state.
