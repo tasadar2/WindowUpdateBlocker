@@ -1,4 +1,4 @@
-# Window Update Blocker
+# Windows Update Blocker
 This is a service that blocks windows updates.
 
 ## Installation
